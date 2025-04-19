@@ -1,5 +1,7 @@
-# 👩‍🍳 Welcome to the Family Recipe Book
+# 🍽️ Family Recipes
 
-Browse our favorite dishes, desserts, and secret family meals.
+Welcome to our cozy digital cookbook.  
+Browse recipes, find favorites, and add your own!
 
-Use the sidebar or search bar to find recipes by tag like `#vegan`, `#dessert`, or `#quick`.
+Use the sidebar to explore. Try tags like `#quick` or `#dessert`.
+
