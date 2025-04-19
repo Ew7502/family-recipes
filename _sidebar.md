@@ -1,4 +1,3 @@
-- [Home](/)
+- [Home](README.md)
 - [All Recipes](recipes/README.md)
-- [Desserts](recipes/desserts.md)
-- [Quick Meals](recipes/quick-meals.md)
+- [Chocolate Cake](recipes/chocolate-cake.md)
