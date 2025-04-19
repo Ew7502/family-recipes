@@ -9,53 +9,57 @@
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet" />
 
   <style>
-    :root {
-      --base-color: #e6f2e6;
-      --accent-color: #4CAF50;
-      --link-color: #2e7d32;
-      --text-color: #1b3c1b;
-      --sidebar-bg: #d0e8d0;
-      --sidebar-hover: #b5ddb5;
-      --sidebar-border: #a3d3a3;
-    }
-
     body {
       font-family: 'Montserrat', sans-serif;
-      background-color: var(--base-color);
-      color: var(--text-color);
+      background-color: #f4fdf4; /* Light green */
+      color: #3c5c3a; /* Dark green */
+      margin: 0;
+      padding: 0;
     }
 
     a {
-      color: var(--link-color);
+      color: #4CAF50; /* Bright green links */
+      text-decoration: none;
+    }
+
+    a:hover {
+      color: #388e3c; /* Darker green on hover */
     }
 
     .sidebar {
-      background-color: var(--sidebar-bg);
-      border-right: 1px solid var(--sidebar-border);
+      background-color: #d3e8d3; /* Soft green sidebar */
+      padding: 20px;
+      border-right: 2px solid #b2d8b2;
+    }
+
+    .sidebar ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    .sidebar ul li {
+      padding: 8px;
+    }
+
+    .sidebar ul li a {
+      font-size: 18px;
+      font-weight: 600;
+      color: #2e7d32; /* Medium green */
     }
 
     .sidebar ul li a:hover {
-      background-color: var(--sidebar-hover);
-      color: var(--accent-color);
-    }
-
-    .app-name {
-      color: var(--accent-color);
-      font-weight: bold;
+      background-color: #b0e3b0;
+      border-radius: 5px;
     }
 
     .content {
-      padding: 2em;
+      padding: 20px;
     }
 
-    .markdown-section h1,
-    .markdown-section h2,
-    .markdown-section h3 {
-      color: var(--accent-color);
-    }
-
-    .sidebar-toggle {
-      background-color: var(--accent-color);
+    .app-name {
+      color: #388e3c; /* Heading green */
+      font-weight: bold;
+      font-size: 24px;
     }
   </style>
 </head>
@@ -67,8 +71,7 @@
       name: 'Family Recipes',
       loadSidebar: true,
       subMaxLevel: 2,
-      sidebarDisplayLevel: 1,
-      themeColor: '#4CAF50'
+      sidebarDisplayLevel: 1
     };
   </script>
 
@@ -79,6 +82,3 @@
   <script src="https://unpkg.com/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 </body>
 </html>
-
- 
-
