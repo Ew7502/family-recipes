@@ -4,12 +4,45 @@
   <meta charset="UTF-8">
   <title>Family Recipes</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- Docsify Theme -->
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+
+  <!-- ✅ Themeable Docsify Styles -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+
+  <!-- ✅ Custom Styling -->
+  <style>
+    :root {
+      --theme-color: #c0604d;
+      --sidebar-background: #fff8f2;
+      --sidebar-width: 250px;
+      --content-max-width: 800px;
+      --link-color: #a23;
+    }
+
+    body {
+      font-family: 'Georgia', serif;
+      background-color: #fcf9f6;
+    }
+
+    h1, h2, h3 {
+      color: #7c392f;
+    }
+
+    .app-name {
+      font-size: 1.8rem;
+      font-weight: bold;
+    }
+
+    code {
+      background-color: #f8f0e3;
+      padding: 2px 4px;
+      border-radius: 4px;
+    }
+  </style>
 </head>
 <body>
   <div id="app">Loading recipes...</div>
 
+  <!-- ✅ Docsify Config -->
   <script>
     window.$docsify = {
       name: 'Family Recipes',
@@ -19,9 +52,13 @@
     };
   </script>
 
-  <!-- Docsify Scripts -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+  <!-- ✅ Docsify Core Script -->
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+
+  <!-- ✅ Search Plugin -->
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
+
+ 
 
