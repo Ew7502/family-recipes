@@ -1,4 +1,5 @@
 - [Home](/)
+- <!-- docsify: collapse -->
 - [Oven]()
   - [🍫 Chocolate Cake](recipes/oven/chocolate-cake.md)
   - [🐟 Sweet Chilli Salmon with Pak Choi](recipes/oven/sweet-chilli-salmon.md)
