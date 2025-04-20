@@ -1,5 +1,5 @@
 - [Home](/)
 - [Oven]()
   - [🍫 Chocolate Cake](recipes/oven/chocolate-cake.md)
-  - [🐟 Sweet Chilli Salmon with Pak Choi](recipes/Oven/sweet-chilli-salmon.md)
+  - [🐟 Sweet Chilli Salmon with Pak Choi](recipes/oven/sweet-chilli-salmon.md)
   - [🥧 Steak, Mushroom & Ale Pie](recipes/steak-mushroom-pie.md)
