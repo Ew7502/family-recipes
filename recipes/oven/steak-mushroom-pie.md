@@ -1,4 +1,4 @@
-# 🥧 Steak, Mushroom & Ale Pie (Alcohol-Free)
+# 🥧 Steak and Mushroom Pie
 
 **For 1 x 24x18cm Rectangular Pie Dish**
 
