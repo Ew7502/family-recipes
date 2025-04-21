@@ -1,6 +1,6 @@
 # 🎂 Chocolate Cake
 
-**Tags**: `#dessert` `#cake`
+**Tags**: `#dessert` 
 
 ## Ingredients
 
