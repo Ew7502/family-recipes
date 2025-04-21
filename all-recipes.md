@@ -4,8 +4,8 @@ Here’s a full list of all the recipes in one place. Tap any one to open it!
 
 ---
 
-- [🍫 Chocolate Cake](recipes/chocolate-cake.md)
-- [🥧 Steak, Mushroom & Ale Pie](recipes/steak-mushroom-pie.md)
-- [🐟 Sweet Chilli Salmon with Pak Choi](recipes/sweet-chilli-salmon.md)
-- [🌶️ Paprika Pork](recipes/paprika-pork.md)
+- [🍫 Chocolate Cake](recipes/oven/chocolate-cake.md)
+- [🥧 Steak, Mushroom & Ale Pie](recipes/oven/steak-mushroom-pie.md)
+- [🐟 Sweet Chilli Salmon with Pak Choi](recipes/oven/hob/sweet-chilli-salmon.md)
+- [🌶️ Paprika Pork](recipes/hob/paprika-pork.md)
 
