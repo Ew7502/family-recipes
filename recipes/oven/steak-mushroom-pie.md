@@ -1,5 +1,7 @@
 # 🥧 Steak and Mushroom Pie
 
+> A quick and flavour-packed salmon dish glazed with sweet chilli, soy, and ginger, served over tender pak choi with a sprinkle of sesame seeds.
+
 **For 1 x 24x18cm Rectangular Pie Dish**
 
 ## 🛒 Ingredients
