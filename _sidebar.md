@@ -2,7 +2,7 @@
 
 <!-- docsify: collapse -->
 - [All Recipes](all-recipes.md)
-  - [🍫 Chocolate Cake](recipes/ovenchocolate-cake.md)
+  - [🍫 Chocolate Cake](recipes/oven/chocolate-cake.md)
   - [🥧 Steak, Mushroom & Ale Pie](recipes/oven/steak-mushroom-pie.md)
   - [🐟 Sweet Chilli Salmon with Pak Choi](recipes/oven/hob/sweet-chilli-salmon.md)
   - [🌶️ Paprika Pork](recipes/hob/paprika-pork.md)
