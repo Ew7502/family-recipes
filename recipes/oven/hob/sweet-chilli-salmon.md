@@ -1,5 +1,7 @@
 # 🐟 Sweet Chilli Salmon with Pak Choi
 
+> A quick and flavour-packed salmon dish glazed with sweet chilli, soy, and ginger, served over tender pak choi with a sprinkle of sesame seeds.
+
 **Serves: 2**
 
 ## 🛒 Ingredients
