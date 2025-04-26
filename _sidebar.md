@@ -16,4 +16,6 @@
   - [🥧 Steak, Mushroom & Ale Pie](recipes/oven/steak-mushroom-pie.md)
   - [🍫 Chocolate Cake](recipes/oven/chocolate-cake.md)
   - [🐟 Sweet Chilli Salmon with Pak Choi](recipes/oven/hob/sweet-chilli-salmon.md)
-  - 
+  - [🧁 Vanilla Cupcakes](recipes/oven/Vanilla-Cupcakes
+
+
