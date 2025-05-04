@@ -1,4 +1,4 @@
-# 🧁 Vanilla Cupcakes
+# 🧁 Vanilla Cupcakes 
 
 > Light, fluffy vanilla cupcakes topped with creamy buttercream — perfect for parties, birthdays, or a special treat at home.
 
