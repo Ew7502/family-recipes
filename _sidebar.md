@@ -20,4 +20,4 @@
 
 <!-- docsify: collapse -->
 - Slow Cooker
-  - [🍲 Sausage Casserole](recipes/Sausage-Casserole.md)
+  - [🍲 Sausage Casserole](recipes/sausage-casserole.md)
