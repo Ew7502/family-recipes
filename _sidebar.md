@@ -6,6 +6,8 @@
   - [🥧 Steak, Mushroom & Ale Pie](recipes/oven/steak-mushroom-pie.md)
   - [🐟 Sweet Chilli Salmon with Pak Choi](recipes/oven/hob/sweet-chilli-salmon.md)
   - [🌶️ Paprika Pork](recipes/hob/paprika-pork.md)
+  - [🧁 Vanilla Cupcakes](recipes/oven/vanilla-cupcakes.md)
+  - [🍲 Sausage Casserole](recipes/sausage-casserole.md)
 
 <!-- docsify: collapse -->
 - One-pots
