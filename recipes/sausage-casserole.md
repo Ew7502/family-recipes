@@ -1,6 +1,6 @@
 # 🍲 Sausage Casserole
 
-## Short Description:
+
 > A hearty sausage casserole packed with chickpeas, kidney beans, and rich tomato flavours, perfect for cozy dinners. 🍲
 
 
@@ -45,6 +45,4 @@ Serve with lots of crusty bread to soak up the juices!
 
 ---
 
-## Short Description:
-> A hearty sausage casserole packed with chickpeas, kidney beans, and rich tomato flavours, perfect for cozy dinners. 🍲
 
