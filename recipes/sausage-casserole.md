@@ -8,7 +8,7 @@
 - 225g (8 oz) onions, peeled
 - 225g (8 oz) carrots, peeled
 - 30ml (2 tbsp) oil
-- 450g (1 lb) pork and herb sausages
+- 450g (1 lb) pork sausages
 - 400g (14 oz) can chickpeas
 - 400g (14 oz) can red kidney beans
 - 400g (14 oz) can tomatoes
