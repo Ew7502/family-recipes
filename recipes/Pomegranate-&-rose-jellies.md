@@ -1,58 +1,37 @@
-<article class="recipe">
+# 🌹 Pomegranate and rose jellies
 
-  <!-- Title -->
-  <h1>🍮 Pomegranate & rose Jelly </h1>
+## Ingredients
+- 6 platinum grade gelatine sheets  
+- 210g pack Waitrose pomegranate seeds  
+- 200g caster sugar  
+- 300ml pressed apple juice  
+- ½ tsp rose water, to taste  
+- 200ml double cream  
 
-  <!-- Ingredients -->
-  <section class="ingredients">
-    <h2>Ingredients</h2>
-    <ul>
-      <li>6 platinum grade gelatine sheets</li>
-      <li>210g pack Waitrose pomegranate seeds</li>
-      <li>200g caster sugar</li>
-      <li>300ml pressed apple juice</li>
-      <li>½ tsp rose water, to taste</li>
-      <li>200ml double cream</li>
-    </ul>
-  </section>
+---
 
-  <!-- Method -->
-  <section class="method">
-    <h2>Method</h2>
+## Method
 
-    <h3>1.</h3>
-    <p>
-      Put the gelatine sheets in a bowl of cold water and set aside to soak.  
-      Put most of the pomegranate seeds into a food processor (reserving some to decorate) with 300ml water and the caster sugar, then whizz to a pulpy juice.  
-      Pour through a fine sieve into a large jug or bowl and discard the solids.
-    </p>
-    <p>
-      While the pomegranate juice is straining, pour the apple juice into a medium pan and warm through over a medium heat until hot but not boiling, then remove from the heat.
-    </p>
+### 1.
+Put the gelatine sheets in a bowl of cold water and set aside to soak.  
+Put most of the pomegranate seeds into a food processor (reserving some to decorate) with 300ml water and the caster sugar, then whizz to a pulpy juice.  
+Pour through a fine sieve into a large jug or bowl and discard the solids.
 
-    <h3>2.</h3>
-    <p>
-      Squeeze the excess water out of the gelatine sheets, then whisk into the hot apple juice until completely dissolved.  
-      Whisk in the strained pomegranate juice, rose water, and a pinch of salt until combined.
-    </p>
-    <p>
-      Divide the mixture between <strong>6 small glasses</strong> (about 150ml each).  
-      Leave to cool, then transfer to the fridge for at least <strong>3 hours</strong> to set completely.
-    </p>
+While the pomegranate juice is straining, pour the apple juice into a medium pan and warm through over a medium heat until hot but not boiling, then remove from the heat.
 
-    <p>
-      When ready to serve, lightly whip the cream until just holding soft peaks.  
-      Dollop on top of the jellies and sprinkle over the reserved pomegranate seeds.
-    </p>
-  </section>
+### 2.
+Squeeze the excess water out of the gelatine sheets, then whisk into the hot apple juice until completely dissolved.  
+Whisk in the strained pomegranate juice, rose water, and a pinch of salt until combined.
 
-  <!-- Cook's Tip -->
-  <section class="tip">
-    <h2>Cook’s Tip</h2>
-    <p>
-      <strong>Rose water:</strong> A little goes a long way. Add gradually so it doesn’t overpower the dish.  
-      It’s surprisingly versatile — great in lamb stews, baked rice, shortbread, ice cream, cocktails, and fruit salads.
-    </p>
-  </section>
+Divide between **6 small glasses** (about 150ml each).  
+Leave to cool, then refrigerate for **at least 3 hours** to set.
 
-</article>
+When ready to serve, lightly whip the cream until just holding soft peaks.  
+Dollop on top of the jellies and sprinkle over the reserved pomegranate seeds.
+
+---
+
+## 🌹 Cook’s Tip
+**Rose water** is powerful stuff — add a few drops at a time.  
+It works beautifully in desserts, but also in lamb stews, rice dishes, shortbread, ice cream, cocktails, and fruit salads.
+
