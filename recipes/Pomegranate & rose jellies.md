@@ -1,7 +1,7 @@
 <article class="recipe">
 
   <!-- Title -->
-  <h1>🍮 Pomegranate & Apple Jelly with Rose Cream</h1>
+  <h1>🍮 Pomegranate & rose Jelly </h1>
 
   <!-- Ingredients -->
   <section class="ingredients">
