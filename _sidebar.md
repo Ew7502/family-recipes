@@ -8,6 +8,7 @@
   - [🌶️ Paprika Pork](recipes/hob/paprika-pork.md)
   - [🧁 Vanilla Cupcakes](recipes/oven/vanilla-cupcakes.md)
   - [🍲 Sausage Casserole](recipes/sausage-casserole.md)
+  - [🫐 Berry Overnight Oats](recipes/berry-overnight-oats.md)
 
 <!-- docsify: collapse -->
 - One-pots
