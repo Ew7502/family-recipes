@@ -24,3 +24,7 @@
 <!-- docsify: collapse -->
 - Slow Cooker
   - [🍲 Sausage Casserole](recipes/sausage-casserole.md)
+ 
+<!-- docsify: collapse -->
+- Desserts
+   - [🫐 Berry Overnight Oats](recipes/berry-overnight-oats.md)
