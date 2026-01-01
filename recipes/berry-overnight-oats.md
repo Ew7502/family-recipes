@@ -1,4 +1,4 @@
-# 🫐 Berry Overnight Oats with Chia & Almonds
+# 🫐 Berry Overnight Oats with Chia seeds & Almonds
 
 **Serves:** 2  
 **Preparation time:** 10 minutes  
