@@ -11,3 +11,4 @@ Here’s a full list of all the recipes in one place. Tap any one to open it!
 - [🍲 Sausage Casserole](recipes/sausage-casserole.md)
 - [🧁 Vanilla Cupcakes](recipes/oven/vanilla-cupcakes.md)
 - [🫐 Berry Overnight Oats](recipes/berry-overnight-oats.md)
+- [🌹 Pomegranate & rose jellies ](recipes/Pomegranate & rose jellies.md)
