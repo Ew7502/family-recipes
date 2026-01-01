@@ -9,6 +9,7 @@
   - [🧁 Vanilla Cupcakes](recipes/oven/vanilla-cupcakes.md)
   - [🍲 Sausage Casserole](recipes/sausage-casserole.md)
   - [🫐 Berry Overnight Oats](recipes/berry-overnight-oats.md)
+  - [🌹 Pomegranate and rose jellies](recipes/Pomegranate-&-rose-jellies.md)
 
 <!-- docsify: collapse -->
 - One-pots
@@ -28,3 +29,4 @@
 <!-- docsify: collapse -->
 - Desserts
    - [🫐 Berry Overnight Oats](recipes/berry-overnight-oats.md)
+   - [🌹 Pomegranate and rose jellies](recipes/Pomegranate-&-rose-jellies.md)
