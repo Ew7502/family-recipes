@@ -10,4 +10,4 @@ Here’s a full list of all the recipes in one place. Tap any one to open it!
 - [🌶️ Paprika Pork](recipes/hob/paprika-pork.md)
 - [🍲 Sausage Casserole](recipes/sausage-casserole.md)
 - [🧁 Vanilla Cupcakes](recipes/oven/vanilla-cupcakes.md)
-
+- [🫐 Berry Overnight Oats](recipes/berry-overnight-oats.md)
