@@ -13,4 +13,4 @@ Here’s a full list of all the recipes in one place. Tap any one to open it!
 - [🫐 Berry Overnight Oats](recipes/berry-overnight-oats.md)
 - [🌹 Pomegranate and rose jellies](recipes/Pomegranate-&-rose-jellies.md)
 - [🍋🫐 Blueberry & Lemon Cream Pots](recipes/Blueberry-&-Lemon-Cream-Pots.md)
-- 
+- [🍫 Chocolate Pud Cheesecakes](recipies/Chocolate-Pud-Cheesecakes.md)
