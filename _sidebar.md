@@ -10,8 +10,12 @@
   - [🍲 Sausage Casserole](recipes/sausage-casserole.md)
   - [🫐 Berry Overnight Oats](recipes/berry-overnight-oats.md)
   - [🌹 Pomegranate and rose jellies](recipes/Pomegranate-&-rose-jellies.md)
+  - [🍋🫐 Blueberry & Lemon Cream Pots](recipes/Blueberry-&-Lemon-Cream-Pots.md)
+  - [🍫 Chocolate Pud Cheesecakes](recipies/Chocolate-Pud-Cheesecakes.md)
+
 
 <!-- docsify: collapse -->
+-[one pots](one-pots.md)
 - One-pots
   - [🌶️ Paprika Pork](recipes/hob/paprika-pork.md)
 
@@ -30,3 +34,6 @@
 - Desserts
    - [🫐 Berry Overnight Oats](recipes/berry-overnight-oats.md)
    - [🌹 Pomegranate and rose jellies](recipes/Pomegranate-&-rose-jellies.md)
+   - [🍋🫐 Blueberry & Lemon Cream Pots](recipes/Blueberry-&-Lemon-Cream-Pots.md)
+   - [🍫 Chocolate Pud Cheesecakes](recipies/Chocolate-Pud-Cheesecakes.md)
+
