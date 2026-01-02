@@ -15,7 +15,7 @@
 
 
 <!-- docsify: collapse -->
--[one pots](one-pots.md)
+- [one pots](one-pots.md)
 - One-pots
   - [🌶️ Paprika Pork](recipes/hob/paprika-pork.md)
 
